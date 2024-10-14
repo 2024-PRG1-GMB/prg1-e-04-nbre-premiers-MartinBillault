@@ -1,0 +1,6 @@
+- En-tête incomplète, expliquez brièvement ce que fait le module (Généralement l'en-tête se présente sur plusieurs lignes).
+- Pas de constantes utilisées pour les limites et entrées utilisateur.
+- Warning ligne 22.
+- Non inclusion de la lib <stdlib>
+- Mauvais test de la valeur 2 et la valeur 1000, ce sont des entrées valides
+- Lignes 15 et 19 fautes d'orthographe
